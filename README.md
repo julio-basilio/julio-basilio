@@ -29,3 +29,5 @@
     <img height="180em" src="https://github-readme-stats-green-omega.vercel.app/api/top-langs/?username=julio-basilio&layout=compact&langs_count=16&theme=merko"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/julio-basilio/julio-basilio/blob/output/github-contribution-grid-snake-dark.svg)
