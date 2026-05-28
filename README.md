@@ -25,7 +25,7 @@
 
 <div>
   <a href="https://github.com/julio-basilio">
-    <img height="180em" src="https://github-readme-stats-kxa2xl1rz-julio-readme-stats.vercel.app/api?username=julio-basilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-kxa2xl1rz-julio-readme-stats.vercel.app/api/top-langs/?username=julio-basilio&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-green-omega.vercel.app/api?username=julio-basilio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-green-omega.vercel.app/api/top-langs/?username=julio-basilio&layout=compact&langs_count=16&theme=merko"/>
   </a>
 </div>
