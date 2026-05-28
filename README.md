@@ -1,32 +1,33 @@
 ## Hi there, I'm Julio! 👋
 
-I'm a **Front-end Developer** just getting started on my coding journey. 🚀  
-Currently building my skills and my first projects — one commit at a time.
+- 🔭 Currently working on Front-end projects
+- 🌱 Learning HTML, CSS & JavaScript
+- 😄 Pronouns: ele/dele
 
 ---
 
-### 🌱 Currently Learning
-- HTML, CSS & JavaScript fundamentals
-- The magic of turning designs into real interfaces
-
-### 🔭 What I'm Working On
-- Personal projects to build my portfolio
-- Exploring the Front-end universe
-
-### 💻 Check Out My Work
-- All my projects live here on [GitHub](https://github.com/julio-basilio) — feel free to explore!
-
-### 📫 How to Reach Me
-- GitHub: [@julio-basilio](https://github.com/julio-basilio)
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div>
+  <a href="https://github.com/julio-basilio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://linkedin.com/in/julio-basilio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+</div>
 
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-basilio&show_icons=true&theme=tokyonight)
+##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-basilio&layout=compact&theme=tokyonight)
-
----
-
-*"Every expert was once a beginner."* ✨
+<div>
+  <a href="https://github.com/julio-basilio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio-basilio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-basilio&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
+</div>
