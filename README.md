@@ -1,8 +1,8 @@
 <h1 align="left">👋 Olá! Eu sou o Julio Basilio</h1>
-<h3 align="left">Estudante de Desenvolvimento de Sistemas | Desenvolvimento Web com HTML, CSS, JavaScript e PHP</h3>
+<h3 align="left">Estudante de Desenvolvimento de Sistemas | Desenvolvimento Web, Back-End e Programação</h3>
 
 <p align="left">
-Apaixonado por tecnologia e desenvolvimento web. Atualmente curso Desenvolvimento de Sistemas na Etec, onde venho construindo projetos práticos envolvendo front-end, back-end e banco de dados. Meu objetivo é evoluir para a área de Back-End e Banco de Dados, desenvolvendo sistemas que resolvam problemas reais.
+Apaixonado por tecnologia e desenvolvimento de sistemas. Atualmente curso Desenvolvimento de Sistemas na Etec, onde venho construindo projetos práticos envolvendo front-end, back-end e banco de dados. Tenho interesse em Back-End, Banco de Dados e Desenvolvimento de Software, buscando constantemente aprender novas tecnologias e desenvolver soluções para problemas reais.
 </p>
 
 <a href="https://github.com/julio-basilio">
@@ -13,13 +13,15 @@ Apaixonado por tecnologia e desenvolvimento web. Atualmente curso Desenvolviment
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Desenvolvimento de Sistemas na Etec
-- 💻 Desenvolvendo projetos com HTML, CSS, JavaScript, PHP e MySQL
-- 📚 Estudando Programação Web, Banco de Dados e Desenvolvimento Back-End
-- 🌱 Buscando minha primeira oportunidade profissional na área de tecnologia
-- 🏗️ Experiência em projetos acadêmicos desenvolvidos em equipe
-- 🎯 Interesse em Back-End, Banco de Dados e Desenvolvimento Web
-- ⚡ Torcedor do São Paulo FC e entusiasta de tecnologia
+* 🎓 Estudante de Desenvolvimento de Sistemas na Etec
+* 💻 Desenvolvendo projetos com HTML, CSS, JavaScript, PHP e MySQL
+* 🔷 Estudando C# e conceitos de desenvolvimento de software
+* 📱 Aprendendo Java com foco em desenvolvimento mobile
+* 📚 Estudando Programação Web, Banco de Dados e Desenvolvimento Back-End
+* 🏗️ Experiência em projetos acadêmicos desenvolvidos em equipe
+* 🎯 Interesse em Back-End, Banco de Dados, Desenvolvimento Web e Mobile
+* 🌱 Buscando constantemente evoluir minhas habilidades em programação
+* ⚡ Torcedor do São Paulo FC e entusiasta de tecnologia
 
 ---
 
@@ -37,6 +39,13 @@ Apaixonado por tecnologia e desenvolvimento web. Atualmente curso Desenvolviment
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
 </p>
 
 ### Banco de Dados
@@ -62,11 +71,12 @@ Apaixonado por tecnologia e desenvolvimento web. Atualmente curso Desenvolviment
 Projeto acadêmico desenvolvido em equipe para uma madeireira, unindo catálogo digital e funcionalidades administrativas.
 
 **Principais recursos:**
-- Catálogo online de produtos
-- Sistema de orçamento
-- Painel administrativo
-- Integração com banco de dados
-- Desenvolvimento utilizando HTML, CSS, JavaScript e PHP
+
+* Catálogo online de produtos
+* Sistema de orçamento
+* Painel administrativo
+* Integração com banco de dados
+* Desenvolvimento utilizando HTML, CSS, JavaScript e PHP
 
 🔗 Projeto:
 https://github.com/julio-basilio/Proj_MadereiraDosCrias
